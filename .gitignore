@@ -1,0 +1,11 @@
+# Node
+node_modules
+.env
+.DS_Store
+
+# Framer
+.framer/
+framer.config.js
+
+# Sanity
+dist/
